@@ -14,5 +14,5 @@ spec:
     spec:
       containers:
       - name: express-app-container
-        image: rookie7722/express-app:linux   # <-- replace with your Docker Hub image
+        image: rookie7722/express-app:befa162e7357cc9eabd7ccbd09a5d17c911cf977
         imagePullPolicy: Always
